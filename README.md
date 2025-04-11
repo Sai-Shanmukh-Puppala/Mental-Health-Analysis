@@ -94,5 +94,4 @@ By leveraging these insights, we can drive better policy decisions and create ta
 ## Contact  
 For questions or collaboration:  
 - **Email**: [saishanm.ssp@gmail.com](mailto:saishanm.ssp@gmail.com)  
-- **LinkedIn**: [Sai Shanmukh Puppala](https://www.linkedin.com/in/sai-shanmukh) 
 
